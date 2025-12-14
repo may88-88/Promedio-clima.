@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31bae8ba-5c0d-4649-a221-dd199958338a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/.idea/promedio_clima.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/Poo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../promedio_clima/Tradicional.py" afterDir="false" />
-    </list>
+    <list default="true" id="31bae8ba-5c0d-4649-a221-dd199958338a" name="Changes" comment="Tarea comparación programación tradicional y POO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +53,28 @@
       <option name="presentableId" value="Default" />
       <updated>1765749106251</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tarea comparación programación tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1765750406106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765750406106</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea comparación programación tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1765750535013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765750535013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea comparación programación tradicional y POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea comparación programación tradicional y POO" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
