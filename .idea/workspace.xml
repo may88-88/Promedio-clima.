@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31bae8ba-5c0d-4649-a221-dd199958338a" name="Changes" comment="git init&#10;git add .&#10;git commit -m &quot;Inicializar repositorio y añadir scripts para calcular promedio semanal&quot;&#10;git branch -M main&#10;git remote add origin &lt;URL_REMOTO&gt;&#10;git push -u origin main" />
+    <list default="true" id="31bae8ba-5c0d-4649-a221-dd199958338a" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,15 +146,40 @@
       <option name="project" value="LOCAL" />
       <updated>1765752535793</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="git init&#10;git add .&#10;git commit -m &quot;Inicializar repositorio y añadir scripts para calcular promedio semanal&quot;&#10;git branch -M main&#10;git remote add origin &lt;URL_REMOTO&gt;&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1765752579797</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765752579797</updated>
+    </task>
+    <task id="LOCAL-00012" summary="git init&#10;git add .&#10;git commit -m &quot;Inicializar repositorio y añadir scripts para calcular promedio semanal&quot;&#10;git branch -M main&#10;git remote add origin &lt;URL_REMOTO&gt;&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1765752735348</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765752735348</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1765752880200</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765752880200</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea comparación programación tradicional y POO" />
     <MESSAGE value="Subir tarea Promedio-Clima." />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="git add .&#10;git commit -m &quot;Inicializar repositorio y añadir scripts para cálculo del promedio semanal&quot; -m &quot;Añadidos Tradicional.py (procedural), Poo.py (orientada a objetos) y README.md. Cómo probar: ejecutar python Tradicional.py e ingresar 7 temperaturas. Sugerencia: añadir .gitignore para archivos del editor.&quot;" />
     <MESSAGE value="git init&#10;git add .&#10;git commit -m &quot;Inicializar repositorio y añadir scripts para calcular promedio semanal&quot;&#10;git branch -M main&#10;git remote add origin &lt;URL_REMOTO&gt;&#10;git push -u origin main" />
-    <option name="LAST_COMMIT_MESSAGE" value="git init&#10;git add .&#10;git commit -m &quot;Inicializar repositorio y añadir scripts para calcular promedio semanal&quot;&#10;git branch -M main&#10;git remote add origin &lt;URL_REMOTO&gt;&#10;git push -u origin main" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
