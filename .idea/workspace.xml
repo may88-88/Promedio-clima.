@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31bae8ba-5c0d-4649-a221-dd199958338a" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="31bae8ba-5c0d-4649-a221-dd199958338a" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/../promedio_clima/Poo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../promedio_clima/Poo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../promedio_clima/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../promedio_clima/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765751413795</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1765751570905</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765751570905</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
